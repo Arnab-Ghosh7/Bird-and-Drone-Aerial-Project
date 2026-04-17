@@ -1,4 +1,5 @@
-
+# Aerial Object Classification & Detection
+### Bird vs Drone — Deep Learning Capstone Project
 
 ---
 
