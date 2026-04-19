@@ -4,15 +4,6 @@
 ---
 ## Files
 
-```
-aerial_project/
-├── Aerial_Object_Classification.ipynb   ← Open in Google Colab (all training here)
-├── app.py                               ← Streamlit app (run locally in VS Code)
-├── requirements.txt                     ← pip install -r requirements.txt
-└── models/                              ← Put trained model files here after Colab
-    ├── best_model.keras
-    └── yolov8_best.pt   (optional)
-```
 
 
 ---
