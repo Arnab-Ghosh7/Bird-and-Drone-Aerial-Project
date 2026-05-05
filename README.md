@@ -19,18 +19,6 @@ aerial_project/
 
 ## Step-by-step Workflow
 
-### Step 1 — Train in Google Colab
-
-1. Upload `Aerial_Object_Classification.ipynb` to Colab
-2. Set Runtime → **GPU → T4**
-3. Upload both datasets to Google Drive:
-   ```
-   MyDrive/aerial_project/classification_dataset/   ← TRAIN / VALID / TEST inside
-   MyDrive/aerial_project/object_detection_Dataset/ ← train / valid / test inside
-   ```
-4. Update `BASE_DRIVE` in **Section 1** to your Drive path
-5. Run all cells top to bottom
-6. Trained models auto-save to `MyDrive/aerial_project/saved_models/`
 
 ### Step 2 — Download Models
 
